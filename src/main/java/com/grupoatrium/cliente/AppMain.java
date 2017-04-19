@@ -18,6 +18,9 @@ public class AppMain {
 		
 		// Ejecutar
 		clientesBS.altaCliente("Datos del cliente");
+		
+		//otro cliente
+		clientesBS.altaCliente("Otro cliente");
 	}
 
 }
